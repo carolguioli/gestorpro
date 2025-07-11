@@ -1,0 +1,1 @@
+# app.py - código principal será adicionado novamente depois
